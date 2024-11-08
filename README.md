@@ -4,7 +4,7 @@ Currently, I'm pursuing a Master of Environmental Data Science at UC Santa Barba
 community organizer, environmental activist, and freelance photographer currently living in sunny Santa Barbara, California. 
 
 ## What am I up to?
-- 🌱 I’m currently learning how to code!
+- 🌱 I’m learning how to code!
   
 <center><img align='center' src='https://github.com/user-attachments/assets/aea9a402-2bff-474b-b5ea-33ac73e77884' width='300'></center>
 

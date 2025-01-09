@@ -3,13 +3,13 @@
 Currently, I'm pursuing a Master of Environmental Data Science at UC Santa Barbara's Bren School! In my free time, I am a
 community organizer, environmental activist, and freelance photographer currently living in sunny Santa Barbara, California. 
 
+<!--
+--
 ## What am I up to?
 - 🌱 I’m learning how to code!
   
 <center><img align='center' src='https://github.com/user-attachments/assets/aea9a402-2bff-474b-b5ea-33ac73e77884' width='300'></center>
 
-<!--
---
 **leirubinstein/leirubinstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

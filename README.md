@@ -1,7 +1,7 @@
-<h1 align="center">Hi, my name is Leilanie Rubinstein (she/her)!</h1>
+<h1 align="center">Hi, my name is Leilanie Rubinstein!</h1>
 
-Currently, I'm pursuing a Master of Environmental Data Science at UC Santa Barbara's Bren School. In my free time, I am a
-community organizer, environmental activist, and freelance photographer currently living in sunny Santa Barbara, California. 
+I'm an early career data scientist pursuing a Master of Environmental Data Science at UC Santa Barbara's Bren School. In my free time, I am a
+[community organizer](https://www.santabarbarayoungdems.org/executive-board), environmental activist, and [freelance photographer](https://leirubinstein.github.io/nature-photography.html) currently living in sunny Santa Barbara, California. 
 
 <!--
 --

@@ -3,9 +3,9 @@
 I'm an early career data scientist pursuing a Master of Environmental Data Science at UC Santa Barbara's Bren School. In my free time, I am a
 [community organizer](https://www.santabarbarayoungdems.org/executive-board), environmental activist, and [freelance photographer](https://leirubinstein.github.io/nature-photography.html) currently living in sunny Santa Barbara, California. 
 
-🛰️ I'm currently working on: [Remote Sensing of Brush Clearance to Enhance Wildfire Preparedness](https://github.com/wildfire-prep)
-📫 How to reach me: [rubinstein@ucsb.edu] or [leilanierubinstein@gmail.com]
-🗺️ Check out my personal website: [leirubinstein.github.io](https://leirubinstein.github.io/)
+- 🛰️ I'm currently working on: [Remote Sensing of Brush Clearance to Enhance Wildfire Preparedness](https://github.com/wildfire-prep)
+- 📫 How to reach me: [rubinstein@ucsb.edu] or [leilanierubinstein@gmail.com]
+- 🗺️ Check out my personal website: [leirubinstein.github.io](https://leirubinstein.github.io/)
 
 
 <!--

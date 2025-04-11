@@ -9,11 +9,15 @@ I'm an early career data scientist pursuing a Master of Environmental Data Scien
   
 - 🗺️ My personal website: [leirubinstein.github.io](https://leirubinstein.github.io/)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leirubinstein&theme=radical&layout=compact">
 
 <h3> Education </h3>
 
 - Master of Environmental Data Science 🌿 - Bren School of Environmental Science and Management (2025)
-- Bachelor of Arts in Political Science and Environmental Studies 🌊 - University of California, Santa Barbara (2021)
+- Political Science and Environmental Studies, B.A. 🌊 - University of California, Santa Barbara (2021)
+
+
+
 
 <!--
 --

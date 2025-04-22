@@ -9,7 +9,7 @@ I'm an early career data scientist pursuing a Master of Environmental Data Scien
   
 - 🗺️ My personal website: [leirubinstein.github.io](https://leirubinstein.github.io/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leirubinstein&theme=radical&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leirubinstein&theme=material-palenight&layout=compact">
 
 <h3> Education </h3>
 

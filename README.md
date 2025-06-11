@@ -5,7 +5,7 @@ I'm an early career data scientist pursuing a Master of Environmental Data Scien
 
 - 🛰️ Currently working on: [Remote Sensing of Defensible Space Compliance to Enhance Wildfire Preparedness](https://github.com/wildfire-prep)
   
-- 📫 Reach me: rubinstein@ucsb.edu or leilanierubinstein@gmail.com
+- 📫 Reach me: rubinstein@bren.ucsb.edu or leilanierubinstein@gmail.com
   
 - 🗺️ My personal website: [leirubinstein.github.io](https://leirubinstein.github.io/)
 

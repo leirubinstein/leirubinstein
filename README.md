@@ -3,7 +3,7 @@
 I'm an early career data scientist and recent graduate of UC Santa Barbara's Bren School of Environmental Science & Management. In my free time, I am a
 [community organizer](https://www.santabarbarayoungdems.org/executive-board), environmental activist, and freelance [photographer](https://leirubinstein.github.io/nature-photography.html) currently living in sunny Santa Barbara, California. 
 
-- 🛰️ Currently working on: [Remote Sensing of Defensible Space Compliance to Enhance Wildfire Preparedness](https://github.com/wildfire-prep)
+- 🛰️ Recent projects: [Remote Sensing of Defensible Space Compliance to Enhance Wildfire Preparedness](https://github.com/wildfire-prep)
   
 - 📫 Reach me: rubinstein@bren.ucsb.edu or leilanierubinstein@gmail.com
   

@@ -1,11 +1,10 @@
 <h2 align="center">Hi, my name is Leilanie Rubinstein!</h2>
 
-I'm an early career data scientist and recent graduate of UC Santa Barbara's Bren School of Environmental Science & Management. In my free time, I am a
-[community organizer](https://www.santabarbarayoungdems.org/executive-board), environmental activist, and freelance [photographer](https://leirubinstein.github.io/nature-photography.html) currently living in sunny Santa Barbara, California. 
+I'm an early career data scientist with the [Global Policy Lab](https://github.com/Global-Policy-Lab) and recent graduate of the Bren School of Environmental Science & Management. In my free time, I am a freelance [photographer](https://leirubinstein.github.io/nature-photography.html). 
 
 - 🛰️ Recent projects: [Remote Sensing of Defensible Space Compliance to Enhance Wildfire Preparedness](https://github.com/wildfire-prep)
   
-- 📫 Reach me: rubinstein@bren.ucsb.edu or leilanierubinstein@gmail.com
+- 📫 Reach me: leilanierubinstein@gmail.com or rubinstein@stanford.edu
   
 - 🗺️ My personal website: [leirubinstein.github.io](https://leirubinstein.github.io/)
 

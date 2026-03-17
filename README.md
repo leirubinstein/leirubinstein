@@ -8,7 +8,7 @@ I'm an early career data scientist with the [Global Policy Lab](https://github.c
   
 - 🗺️ My personal website: [leirubinstein.github.io](https://leirubinstein.github.io/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leirubinstein&theme=omni&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leirubinstein&theme=material-palenight&show_icons=true&layout=compact">
 
 <h3> Education </h3>
 

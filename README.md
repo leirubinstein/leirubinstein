@@ -1,8 +1,8 @@
 <h2 align="center">Hi, my name is Leilanie Rubinstein!</h2>
 
-I'm an early career data scientist with the [Global Policy Lab](https://github.com/Global-Policy-Lab) and recent graduate of the Bren School of Environmental Science & Management. In my free time, I am a freelance [photographer](https://leirubinstein.github.io/nature-photography.html). 
+I'm an early career data scientist with the [Global Policy Lab](https://github.com/Global-Policy-Lab) at the Stanford Doerr School of Sustainability. In my free time, I am a freelance [photographer](https://leirubinstein.github.io/nature-photography.html). 
 
-- 🛰️ Recent projects: [Remote Sensing of Defensible Space Compliance to Enhance Wildfire Preparedness](https://github.com/wildfire-prep)
+- 🛰️ Current projects: [Aerial History Project](https://www.ncap.org/news/2025/dos-su-update)
   
 - 📫 Reach me: leilanierubinstein@gmail.com or rubinstein@stanford.edu
   
